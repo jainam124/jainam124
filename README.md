@@ -1,4 +1,4 @@
-<!---### Hi there 👋---!>
+Hey, I'm Jainam 👋
 
 <!--
 **jainam124/jainam124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Jainam Sheth
+
+![GitHub profile views](https://komarev.com/ghpvc/?username=jainam124&color=31E1F7)
 
 ## Computer Science
 
@@ -23,7 +24,7 @@ Here are some ideas to get you started:
 - 🧠 I'm learning Statistics and Machine Learning
 - 🤝 I'm open to collaborating on Innovative Projects
 
-### Skills 
+### 💻 Tech Stack
 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
