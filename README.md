@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br />
+
 ![GitHub profile views](https://komarev.com/ghpvc/?username=jainam124&color=31E1F7)
 
 ## 🎓 Computer Scientist
