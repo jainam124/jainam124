@@ -1,4 +1,4 @@
-Hey, I'm Jainam 👋
+# Hey, I'm Jainam 👋
 
 <!--
 **jainam124/jainam124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,14 +17,15 @@ Here are some ideas to get you started:
 
 ![GitHub profile views](https://komarev.com/ghpvc/?username=jainam124&color=31E1F7)
 
-## Computer Science
+## Aspiring Computer Scientist
 
 - 🌍 I'm based in Canada
+- ✉️ University Mail: [sheth53@uwindsor.ca](mailto:sheth53@uwindsor.ca)
 - ✉️ You can contact me at [jainamsheth124@gmail.com](mailto:jainamsheth124@gmail.com)
 - 🧠 I'm learning Statistics and Machine Learning
 - 🤝 I'm open to collaborating on Innovative Projects
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
@@ -98,11 +99,11 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-### Socials
+## 🌐 Socials
 
 <p align="left">
   <a href="https://discord.com/users/jainamsheth" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" margin-right="20px" />
   </a>
   <a href="https://www.github.com/jainam124" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
@@ -114,6 +115,14 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
 </p>
+
+## ✔ Contribution Graph
+<!-- <p align="center">
+  <img width="800" src="https://github-readme-activity-graph.cyclic.app/graph?username=jainam124"/>
+  <br>
+<p> -->
+[![Jainam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jainam124&&theme=merko&custom_title=Jainam's%20Contribution%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 **My GitHub Stats**
 
