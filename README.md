@@ -1,4 +1,4 @@
-# Hey, I'm Jainam 👋
+Hey, I'm Jainam 👋
 
 <!--
 **jainam124/jainam124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,17 +17,16 @@ Here are some ideas to get you started:
 
 ![GitHub profile views](https://komarev.com/ghpvc/?username=jainam124&color=31E1F7)
 
-## Aspiring Computer Scientist
+## Computer Science
 
 - 🌍 I'm based in Canada
-- ✉️ University Mail: [sheth53@uwindsor.ca](mailto:sheth53@uwindsor.ca)
 - ✉️ You can contact me at [jainamsheth124@gmail.com](mailto:jainamsheth124@gmail.com)
 - 🧠 I'm learning Statistics and Machine Learning
 - 🤝 I'm open to collaborating on Innovative Projects
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
-<p align="left">
+<p align="center">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
   </a>
@@ -99,45 +98,43 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## 🌐 Socials
+### Socials
 
-<p align="left">
+<p align="center">
   <a href="https://discord.com/users/jainamsheth" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" margin-right="20px" />
-  </a>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32">
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.github.com/jainam124" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="32" height="32">
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="http://www.instagram.com/jainam111" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-  </a>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32">
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/shethjainam/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32">
   </a>
 </p>
 
-## ✔ Contribution Graph
-<!-- <p align="center">
-  <img width="800" src="https://github-readme-activity-graph.cyclic.app/graph?username=jainam124"/>
-  <br>
-<p> -->
-[![Jainam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jainam124&&theme=merko&custom_title=Jainam's%20Contribution%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## 🏆 Trophies
 
-**My GitHub Stats**
+[![trophy](https://github-profile-trophy.vercel.app/?username=jainam124)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="http://www.github.com/jainam124">
   <img src="https://github-readme-stats.vercel.app/api?username=jainam124&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jainam124's GitHub stats" />
 </a>
 
+## 📊 Github Stats
+
 <a href="http://www.github.com/jainam124">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jainam124&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 
+<!--
 <a href="http://www.github.com/jainam124">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jainam124&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" width="100%" />
 </a>
-
+--->
 
 <a href="https://github.com/jainam124" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainam124&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
@@ -151,4 +148,3 @@ Here are some ideas to get you started:
   </a>
 </div>
 <br /><br /><br /><br /><br /><br /><br />
-
