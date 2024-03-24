@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌍 I'm based in Canada
 - 🏫 Univeristy Mail: [sheth53@uwindsor.ca](mailto:sheth53@uwindsor.ca)
 - ✉️ You can contact me at [jainamsheth124@gmail.com](mailto:jainamsheth124@gmail.com)
-- 🧠 I'm learning Statistics and Machine Learning
+- 🧠 I'm learning Statistics, Big Data Analytics and Machine Learning
 - 🤝 I'm open to collaborating on Innovative Projects
 
 ## 💻 Tech Stack
