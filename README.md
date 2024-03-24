@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🧠 I'm learning Statistics and Machine Learning
 - 🤝 I'm open to collaborating on Innovative Projects
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
@@ -99,7 +99,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-### Socials
+## Socials
 
 <p align="center">
   <a href="https://discord.com/users/jainamsheth" target="_blank" rel="noreferrer">
