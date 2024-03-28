@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <br />
 
-![GitHub profile views](https://komarev.com/ghpvc/?username=jainam124&color=31E1F7)
+[![](https://visitcount.itsvg.in/api?id=jainam124&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## 🎓 Computer Scientist
 
