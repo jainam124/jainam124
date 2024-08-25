@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![](https://visitcount.itsvg.in/api?id=jainam124&icon=0&color=1)](https://visitcount.itsvg.in)
 
-## 🎓 Computer Scientist
+## 🎓 Data Scientist & Software Engineer
 
 - 🌍 I'm based in Canada
 - 🏫 Univeristy Mail: [sheth53@uwindsor.ca](mailto:sheth53@uwindsor.ca)
